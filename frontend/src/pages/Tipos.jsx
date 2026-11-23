@@ -435,7 +435,7 @@ function Tipos() {
                             </h5>
 
                             <small className="text-secondary">
-                                Registros almacenados en SQL Server.
+                                Registros almacenados en Neon PostgreSQL.
                             </small>
 
                         </div>

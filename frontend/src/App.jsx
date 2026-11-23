@@ -133,10 +133,10 @@ function Sidebar() {
 
                 <div className="status-indicator"></div>
 
-                API de películas y series
+                API de CineManager
 
                 <small>
-                    Servidor local · Puerto 3001
+                    Render · Neon PostgreSQL
                 </small>
 
             </div>
@@ -419,8 +419,7 @@ function Dashboard() {
                     </h4>
 
                     <p>
-                        Información obtenida directamente
-                        desde SQL Server.
+                        Información obtenida desde Neon PostgreSQL.
                     </p>
 
                 </div>
